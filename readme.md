@@ -1,4 +1,4 @@
-# chrome-icon-list [![Build Status](https://travis-ci.com/andrefortin/chrome-icon-list.svg?branch=master)](https://travis-ci.org/andrefortin/chrome-icon-list)
+# chrome-icon-list [![Build Status](https://travis-ci.com/andrefortin/chrome-icon-list.svg?branch=master)](https://travis-ci.com/andrefortin/chrome-icon-list)
 
 > List of the [Chrome extension icons](https://developer.chrome.com/docs/extensions/mv2/user_interface/#provide-the-extension-icons)
 
