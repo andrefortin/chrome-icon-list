@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "List of the Chrome extension icons.",
 	"license": "MIT",
-	"repository": "https://andrefortin/chrome-icon-list",
+	"repository": "https://github.com/andrefortin/chrome-icon-list",
 	"author": {
 		"name": "Andre Fortin",
 		"email": "andre.v.fortin@gmail.com",
