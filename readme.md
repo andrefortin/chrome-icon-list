@@ -14,7 +14,7 @@ $ npm install --save chrome-icon-list
 const chromeIconList = require("chrome-icon-list");
 
 chromeIconList();
-//=> [{file: 'icon-36x36.png', dimension: 36}, {file: 'icon-48x48.png', dimension: 48}, ...]
+//=> [{file: 'icon-36.png', dimension: 36}, {file: 'icon-48.png', dimension: 48}, ...]
 ```
 
 ## Related
