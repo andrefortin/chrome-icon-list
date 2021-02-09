@@ -1,6 +1,6 @@
-import test from 'ava';
-import iosIconList from '.';
+const test = require('ava');
+const chromeIconList = require('.');
 
 test('length of result array', t => {
-	t.true(iosIconList().length === 20);
+	t.true(chromeIconList().length === 4);
 });

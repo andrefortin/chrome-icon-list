@@ -1,31 +1,28 @@
-# ios-icon-list [![Build Status](https://travis-ci.org/SamVerschueren/ios-icon-list.svg?branch=master)](https://travis-ci.org/SamVerschueren/ios-icon-list)
+# chrome-icon-list [![Build Status](https://travis-ci.org/andrefortin/chrome-icon-list.svg?branch=master)](https://travis-ci.org/andrefortin/chrome-icon-list)
 
-> List of the [iOS app icons](https://developer.apple.com/ios/human-interface-guidelines/graphics/app-icon/#app-icon-sizes)
-
+> List of the [Chrome extension icons](https://developer.chrome.com/docs/extensions/mv2/user_interface/#provide-the-extension-icons)
 
 ## Install
 
 ```
-$ npm install --save ios-icon-list
+$ npm install --save chrome-icon-list
 ```
-
 
 ## Usage
 
 ```js
-const iosIconList = require('ios-icon-list');
+const chromeIconList = require("chrome-icon-list");
 
-iosIconList();
-//=> [{file: 'icon-40.png', dimension: 40}, {file: 'icon-40@2x.png', dimension: 80}, ...]
+chromeIconList();
+//=> [{file: 'icon-36x36.png', dimension: 36}, {file: 'icon-48x48.png', dimension: 48}, ...]
 ```
-
 
 ## Related
 
 - [android-icon-list](https://github.com/SamVerschueren/android-icon-list) - List of the Android launcher icons
 - [bb10-icon-list](https://github.com/SamVerschueren/bb10-icon-list) - List of the BlackBerry 10 app icons
-
+- [ios-icon-list](https://github.com/SamVerschueren/ios-icon-list) - List of the iOS app icons
 
 ## License
 
-MIT © [Sam Verschueren](https://github.com/SamVerschueren)
+MIT © [Andre Fortin](https://github.com/andrefortin)
