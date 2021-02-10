@@ -1,6 +1,7 @@
-const test = require('ava');
 const chromeIconList = require('.');
 
-test('length of result array', t => {
-	t.true(chromeIconList().length === 4);
+describe('chrome icons', () => {
+	test('chrome icons count', async () => {
+		expect(chromeIconList().length).toBe(5);
+	});
 });

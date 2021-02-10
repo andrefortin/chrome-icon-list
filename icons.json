@@ -12,6 +12,10 @@
 		"dimension": 48
 	},
 	{
+		"file": "icon-96.png",
+		"dimension": 96
+	},
+	{
 		"file": "icon-128.png",
 		"dimension": 128
 	}
